@@ -1,5 +1,8 @@
 🚀 Day 1 of Learning Utsav
-🌟 Key Learnings
+
+
+ Key Learnings:
+ 
 On Day 1, I began exploring the foundational concepts of APIs and the client-server architecture, which are essential for backend development with Node.js. I also learned about the key HTTP methods that allow communication between a client (like a browser) and a server.
 
 📌 Topics Covered
