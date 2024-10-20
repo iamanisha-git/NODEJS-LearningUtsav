@@ -36,6 +36,7 @@ HTTP Status Codes – Indicate the result of a request:
 
 
 Node.js & its  Features:
+
 -Non-blocking I/O and asynchronous event-driven architecture.
 - Highly scalable for real-time applications.
 - Single-threaded but efficiently handles multiple connections.
